@@ -1,0 +1,17 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Node/React
+node_modules/
+dist/
+.env
+
+# AWS/IDE
+.aws/
+.vscode/
+.ebextensions/
+
+task-manager-venv/
